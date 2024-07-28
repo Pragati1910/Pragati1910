@@ -21,6 +21,10 @@
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
 [![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![Express.js](https://img.icons8.com/ios/48/000000/express.png)](https://expressjs.com/)
+[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+
 
 
 
