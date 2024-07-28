@@ -9,7 +9,6 @@
 ### Connect with me:
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/pragati-maheshwari2004/)
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/Pragati1910)
-[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/johndoe)
 
 ### Languages and Tools:
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
