@@ -1,6 +1,29 @@
-- 👋 Hi, I’m Pragati Maheshwari
-- 👀 I’m interested in Web Development and Machine learning 
-- 🌱 I’m currently learning Computer Science with AI and ML
-- 📫 How to reach me pragatimaheshwari04@gmail.com
+## Hi 👋, I'm Pragati Maheshwari
+
+### A Tech Enthusiast and Engineering Student
+
+- 🌱 I’m currently learning **Machine Learning and Web Development**
+- 📫 How to reach me: pragatimaheshwari04@gmail.com
+- ⚡ Currently, I am pursuing a Bachelor's Degree course in Computer Science Engineering with a specialization in Artificial Intelligence
+
+### Connect with me:
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/pragati-maheshwari2004/)
+[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/Pragati1910)
+[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/johndoe)
+
+### Languages and Tools:
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
+[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://isocpp.org/)
+[![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
+[![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
+[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
+
+
+
 
 
