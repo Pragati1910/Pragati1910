@@ -9,6 +9,9 @@
 ### Connect with me:
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/pragati-maheshwari2004/)
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/Pragati1910)
+[![LeetCode](https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tritone-tal-revivo.png)](https://leetcode.com/u/kpmtOvltMD/)
+[![Kaggle](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png)](https://www.kaggle.com/pragati1910)
+[![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/pragatimaheshwa2)
 
 ### Languages and Tools:
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
